@@ -9,8 +9,8 @@ var animal = 'cat';
 return animal;
 }
 
-function add2(n) {
-  return n + two
+function add2(n, two) {
+  return n + 2
 
   // Feel free to move things around!
   const two = 2
