@@ -1,4 +1,6 @@
 return animal
+}
+
 
 var animal = 'dog'
 
