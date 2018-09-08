@@ -9,7 +9,7 @@ var animal = 'cat';
 return animal;
 }
 
-function add2(n, two) {
+function add2(n) {
   return n + 2
 
   // Feel free to move things around!
