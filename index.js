@@ -10,7 +10,7 @@ return animal;
 }
 
 function add2(n) {
-  var 
+  var two = 2
   const two = 
   // Feel free to move things around!
  
